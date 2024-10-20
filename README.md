@@ -6,4 +6,4 @@
 
 
 
-![Python]  ![Javascript] ![Typscript] ![Solidity]
+[Python]  [Javascript] [Typscript] [Solidity]
