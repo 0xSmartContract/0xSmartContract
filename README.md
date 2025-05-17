@@ -1,9 +1,26 @@
-### Hi there 👋
+<div align="center">
+
+# 🧮 0xSmartContract
+
+### `|| Smart Contracts 🧭  ||  Code Review 📄  ||  Bot in Crypto 🤖  ||  Audit 📇 ||`
+### `|| c4 Warden 🐺 ||  Sherlock Lead Judge 🕵️‍♂️ ||`
+
+---
+
+### 👋 Welcome to my digital basecamp.
+
+> “I ship code that secures millions — and break code that shouldn't exist.”
+
+</div>
+
+---
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%7C%7C+Smart+Contracts+%F0%9F%A7%AD++%7C%7C++Code+Review+%F0%9F%93%84++%7C%7C+++Bot+in+Crypto+%F0%9F%A4%96++%7C%7C+Audit+%F0%9F%93%87+%7C%7C)](https://git.io/typing-svg)
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xSmartContract&show_icons=true&theme=radical&hide=stars&count_private=true" alt="0xSmartContract's GitHub stats"/> </p>
 
 
+<div align="center">
+“Build securely. Break precisely. Audit ruthlessly.”
 
-
-[Python]  [Javascript] [Typscript] [Solidity]
+</div> 
